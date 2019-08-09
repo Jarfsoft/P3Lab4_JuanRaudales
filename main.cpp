@@ -87,7 +87,7 @@ int main()
 					{
 						Banco *ban= new Banco();
 						edificios.push_back((Edificio*)ban);
-						galletas-=(granjas*40+100);
+						galletas-=(bancos*40+100);
 						bancos++;
 					}
 				}
